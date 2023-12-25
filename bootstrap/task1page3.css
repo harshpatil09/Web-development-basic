@@ -1,0 +1,50 @@
+.navbar{
+    background: transparent linear-gradient(89deg, #13175B 0%, #07547A 100%) 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+opacity: 1;
+}
+
+.row{
+    margin-top: 5px;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+    
+}
+
+.card{
+    width: 200px;
+    height: 280px;
+    box-shadow: 0 20px 20px 0 #00000029, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+.card-text{
+    font-size:smaller ;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-nav{
+    width: 20px;
+    height: 20px;
+    margin-left: 30rem;
+}
+.nav-item{
+    margin-right: 20px;
+    align-items: center;
+}
+
+#top-img{
+    width: 80px;
+    height: 70px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+h6:hover{
+    color: blueviolet;
+}
+.font1{
+    color: white;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+

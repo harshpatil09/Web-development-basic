@@ -1,0 +1,38 @@
+.card{
+    width: 250px;
+    height: 120px;
+    box-shadow: 0 20px 20px 0 #00000029, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: left;
+    margin-left: 30rem;
+    margin-top: 10px;
+}
+.card-text{
+    font-size:large ;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: white;
+}
+.card-title{
+    color: white;
+}
+
+#top-img{
+    width: 90px;
+    height: 100px;
+    margin-left: 80px;
+    margin-top: 9px;
+}
+.dropdown-menu{
+    border: none;
+}
+
+.darktable{
+    margin-top: 50px;
+}
+
+.detailsbtn{
+    text-align: center;
+}
+.detailscard{
+    text-align: center;
+}
